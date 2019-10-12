@@ -7,4 +7,4 @@ TARGET = main
 INCLUDEPATH += .
 
 # Input
-SOURCES += main.cpp luogu/p1001.cpp
+SOURCES += main.cpp
